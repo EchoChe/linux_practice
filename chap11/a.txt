@@ -1,6 +1,0 @@
-unpv2  unix网络编程
-
-
-telnet 和 nc
-linux高级服务器编程
-普及：tcp／ip协议详解1
